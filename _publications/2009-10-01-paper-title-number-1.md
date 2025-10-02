@@ -1,4 +1,3 @@
-
 ---
 title: "Global intercountry croplands’ greenhouse gas emissions differences and their potential drivers from economic levels perspective"
 collection: publications
