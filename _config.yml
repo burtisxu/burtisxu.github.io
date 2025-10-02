@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haolun Xu‘s Homepage"
+title                    : "Haolun Xu's Homepage"
 title_separator          : "-"
 name                     : &name "Haolun Xu"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "head.jpg"
   name             : "Haolun Xu（徐浩伦）"
   pronouns         : # example: "she/her"  
-  bio              : "Adapt to all climate change"
-  location         : "ChengDu"
-  employer         : "SWUFE"
+  bio              : "Adapt to all change"
+  location         : "Beijing"
+  PhD Student      : "Renmin university of China"
   uri              : # URL
   email            : "haolun_xu@outlook.com" 
 
